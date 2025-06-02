@@ -20,5 +20,5 @@ npm run dev
 npm run build
 
 # deploy
-
+https://nfactorial-hw-1.vercel.app/
 \`\`\`
