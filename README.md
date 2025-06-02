@@ -7,18 +7,21 @@
 - **Tailwind CSS**
 - **shadcn/ui**
 
-## Run locally
+## Get started
 
-\`\`\`bash
-# install dependencies
-npm install
-
-# run it on localhost
-npm run dev
-
-# prod build check
-npm run build
-
-# deploy
-https://nfactorial-hw-1.vercel.app/
-\`\`\`
+1. install dependencies:
+   ```bash
+   npm i
+   ```
+2. run it on localhost:
+   ```bash
+   npm run dev
+   ```
+3. prod build check:
+   ```bash
+   npm run build
+   ```
+4. deployment:
+   ```bash
+   https://nfactorial-hw-1.vercel.app/
+   ```
